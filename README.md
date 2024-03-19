@@ -92,15 +92,16 @@ cv2.destroyAllWindows()
 ### Histogram of Grayscale Image and any channel of Color Image
 
 #### Gray Scale -
-![2](https://github.com/Gokul-008/Histogram-of-an-images/assets/121165996/ebb0d5d4-c87f-4972-8e3a-10337b3bf4cd)
-![3](https://github.com/Gokul-008/Histogram-of-an-images/assets/121165996/8e2de08a-8d8b-456c-a572-e107de945c62)
+![image](https://github.com/Pravinrajj/Histogram-of-an-images/assets/117917674/b26ba434-ffae-4b76-bd05-418ac642b4a6)
+![image](https://github.com/Pravinrajj/Histogram-of-an-images/assets/117917674/53c154fe-82a6-4648-bc8b-ea4b5c1dcf14)
 
 #### Green Channel -
-![4](https://github.com/Gokul-008/Histogram-of-an-images/assets/121165996/c4190837-f00c-4305-935a-8a9f22de6ec3)
-![5](https://github.com/Gokul-008/Histogram-of-an-images/assets/121165996/6db58237-1094-4ca8-b6d9-ead7aa2e8f2e)
+![image](https://github.com/Pravinrajj/Histogram-of-an-images/assets/117917674/73fe8d58-c8f2-48b9-b7e7-28af269dd355)
+![image](https://github.com/Pravinrajj/Histogram-of-an-images/assets/117917674/2459500b-d925-4742-9f2d-05e8a8619600)
 
 ### Histogram Equalization of Grayscale Image :
-![6](https://github.com/Gokul-008/Histogram-of-an-images/assets/121165996/d853f50c-0fce-4c98-a76d-50e3e516f456)
+<img height=45% width=45% src="https://github.com/Pravinrajj/Histogram-of-an-images/assets/117917674/e6416a5d-3c11-406a-bd0d-db9312bd32ce">
+<img height=45% width=45% src="https://github.com/Pravinrajj/Histogram-of-an-images/assets/117917674/7aee6fab-bd27-4cef-8cad-39194df53951">
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
